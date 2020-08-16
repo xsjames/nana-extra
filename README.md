@@ -1,3 +1,5 @@
+请求您删除部分侵权代码！请您尽快联系我，电话/微信：17512549214 邮箱：2259461527@qq.com
+
 # nana-extra <a href="https://www.buymeacoffee.com/besh81" target="_blank"><img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 A collection of [Nana C++ Library](https://github.com/cnjinhao/nana) custom controls developed by users
 
